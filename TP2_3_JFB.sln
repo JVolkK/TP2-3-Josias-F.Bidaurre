@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2_3_JFB", "TP2_3_JFB\TP2_3_JFB.csproj", "{B8CA0919-7818-42EA-B14B-C476855ED2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_TP2_3_JFB", "UnitTest_TP2_3_JFB\UnitTest_TP2_3_JFB.csproj", "{F3D76CB2-F9CF-4DF7-88BD-935382EF7E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8CA0919-7818-42EA-B14B-C476855ED2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CA0919-7818-42EA-B14B-C476855ED2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CA0919-7818-42EA-B14B-C476855ED2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CA0919-7818-42EA-B14B-C476855ED2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D76CB2-F9CF-4DF7-88BD-935382EF7E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D76CB2-F9CF-4DF7-88BD-935382EF7E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D76CB2-F9CF-4DF7-88BD-935382EF7E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D76CB2-F9CF-4DF7-88BD-935382EF7E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824614B0-7E83-4969-A965-B8F592EC8E10}
+	EndGlobalSection
+EndGlobal
